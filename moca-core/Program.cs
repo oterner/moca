@@ -29,7 +29,7 @@ namespace mocacore
 
         public List<MovieInfo> GetAllMoviesInfo()
         {
-            return movies.Values.Select(v => v).ToList();
+            return movies.Values.Select(v => v).OrderByDescending(v => v.Rating).ToList();
         }
 
         public MovieInfo GetMovieInfo(string guid)
