@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{F5FA2AFB-AA0F-4842-9D69-2815F03B1379}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="moca-core/Program.cs">
+    <Files>
+      <File FileName="moca-core/Program.cs" Line="22" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
