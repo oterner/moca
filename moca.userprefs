@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{F5FA2AFB-AA0F-4842-9D69-2815F03B1379}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="moca-core/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="moca-core Status">
     <Files>
-      <File FileName="moca-core/Program.cs" Line="22" Column="44" />
+      <File FileName="moca-core/Program.cs" Line="20" Column="1" />
+      <File FileName="moca-core/api/IMovieInfoService.cs" Line="1" Column="1" />
+      <File FileName="moca-core/model/MovieInfo.cs" Line="1" Column="1" />
+      <File FileName="moca-core/impl/MovieInfoService.cs" Line="8" Column="2" />
+      <File FileName="moca-core Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.moca-core PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
